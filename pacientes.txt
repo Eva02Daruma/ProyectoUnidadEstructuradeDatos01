@@ -1,0 +1,13 @@
+I,19189125-2,José Morales Elgueta,988887777,Fonasa,Juan Guerra,Tratamiento,5
+C,18971953-1,Marcela Sepúlveda Díaz,991112222,Particular,Jacinta Torres,Cardiología,Central
+I,19245721-1,Mafalda López Mellado,933099889,Isapre,Héctor Pavez,Grave,12
+I,19276131-K,Hugo Torres Pardo,966667777,Isapre,Gracia Lara,Reservado,6
+C,15340450-K,Matías Gonzáles Guzmán,912123434,Particular,Lucía Matte,Dermatología,Oriente
+I,18539977-K,Rodrigo Alvear Soto,930004444,Fonasa,Juan Guerra,Tratamiento,2
+I,19322976-K,Daniel Velásquez Aguirre,999997777,Isapre,Laura Arias,Reservado,4
+C,19285240-4,Nelly González Quevedo,977005555,Fonasa,Javier Solar,Cardiología,Oriente
+C,15210174-0,Miguel Soler Mena,967678989,Isapre,Luis Jara,Broncopulmonar,Central
+I,12300400-0,Andrea Collado Sierra,965651122,Particular,Gracia Lara,Tratamiento,2
+C,16104514-4,Luís Abarca Espinoza,978789898,Fonasa,Juan Guerra,Traumatología,Central
+I,18612388-3,Matías Ávila Serrano,933443344,Isapre,Juan Guerra,Reservado,3
+C,18709227-2,Silvana Méndez Valdés,966776677,Particular,Javier Solar, Cardiología,Oriente

@@ -1,0 +1,12 @@
+juan.perez@gmail.com,Reunión 12-junio
+Joseramirez@yahoo.com,Solicita Fotocopias
+Hugo.arcez@mayor.cl,Solicita Antecedentes
+losanillos@hotmail.com,Envía CV
+maria.kuntz@mayor.cl,Envía Licencia médica
+franco.tonalli@mayor.cl,Envía Antecedentes
+elsa.payo@mayor.cl,Solicita Reunión
+alan.brito@gmail.com,Envía archivos solicitados
+esteban.quito@mayor.cl,Solicita Reunión
+rosa.espinoza@yahoo.com,Solicita Informe
+Hugo.arcez@mayor.cl,Solicita Reunión
+franco.tonalli@mayor.cl,Solicita Reunión
